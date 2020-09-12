@@ -12,7 +12,7 @@ setup:
 
 install:
 	# This should be run from inside a virtualenv
-	pip install --upgrade pip &&\
+	pip install --upgrade pip==20.2.3 &&\
 		pip install -r requirements.txt
 
 test:
