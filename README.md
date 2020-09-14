@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![zerocodebit254](https://circleci.com/gh/zerocodebit254/udacity-project-five.svg?style=svg)](https://app.circleci.com/pipelines/github/ansdb/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
